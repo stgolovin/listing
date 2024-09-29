@@ -18,10 +18,9 @@ function App() {
       }
     )
   });
-  //const items: ItemType[] = [];
+
   return (
     <Listing items={items} />
-    //<Listing />
   )
 }
 
